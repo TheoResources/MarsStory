@@ -38,6 +38,7 @@
       android:text="New Text"
       android:id="@+id/storyDescription"
       android:layout_alignParentEnd="true"
-      android:layout_alignParentStart="true" android:layout_above="@+id/choice0" android:layout_below="@+id/storyImageView"/>
+      android:layout_alignParentStart="true" android:layout_above="@+id/choice0" android:layout_below="@+id/storyImageView"
+      android:padding="32dp"/>
 
 </RelativeLayout>
